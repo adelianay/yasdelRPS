@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">yasdelRPS</string>
+    <string name="Choice">Player Choice</string>
+    <string name="yourChoice">YOU</string>
+    <string name="computerchoice">COMPUTER</string>
+    <string name="Score">You : 0 Computer : 0</string>
+    <string name="Rock">Rock</string>
+    <string name="Scissor">Scissor</string>
+    <string name="Paper">Paper</string>
+</resources>
